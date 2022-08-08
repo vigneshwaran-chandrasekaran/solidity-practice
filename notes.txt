@@ -1,0 +1,6 @@
+To find max and min values of int, unit data types 
+    int public minInt = type(int).min;
+    int public maxInt = type(int).max;
+
+__________________________________________________________________
+
