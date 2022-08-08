@@ -149,7 +149,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/DataTypesValues-2.sol": "ValueTypes"
+			"contracts/DataTypesValues-3.sol": "ValueTypes"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -163,7 +163,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/DataTypesValues-2.sol": {
+		"contracts/DataTypesValues-3.sol": {
 			"keccak256": "0xa32e419b474e8a6ccb0123b714cc1eff1e048969125bfd9525cc0dda5fb22350",
 			"license": "MIT",
 			"urls": [

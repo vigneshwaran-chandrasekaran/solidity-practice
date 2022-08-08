@@ -4,3 +4,7 @@ To find max and min values of int, unit data types
 
 __________________________________________________________________
 
+* state variables store the values on the blockchain
+  state variables declared inside contract, outside of function
+  
+
