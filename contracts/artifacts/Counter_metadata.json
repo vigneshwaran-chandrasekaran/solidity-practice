@@ -7,20 +7,7 @@
 		"abi": [
 			{
 				"inputs": [],
-				"name": "foo",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "pure",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "myUint",
+				"name": "count",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -29,6 +16,20 @@
 					}
 				],
 				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "dec",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "inc",
+				"outputs": [],
+				"stateMutability": "nonpayable",
 				"type": "function"
 			}
 		],
@@ -45,7 +46,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/StateVariables-5.sol": "StateVariables"
+			"contracts/Counter-9.sol": "Counter"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -59,12 +60,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/StateVariables-5.sol": {
-			"keccak256": "0xa13f26206dba961777e698b1e7949b6146023ba7ea350be73db8dbc1be1ef7e5",
+		"contracts/Counter-9.sol": {
+			"keccak256": "0x768598952e19ccb3c68c11b7e65c73c9d9e4e9ff2ee9431c298daa95dddb6d60",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://6aaf47521604475f8674877fb00d3f76a1bde92ac7ede0af9cee081e61854f41",
-				"dweb:/ipfs/QmdwXahEWRd1P7s6YijvpQ4hFCt2VzanKxGQ9TYMC7VR6U"
+				"bzz-raw://97f87c3b041fc930af604e3dfe86d2915d8017366f9b97d57f1fc6eb8e8a97e1",
+				"dweb:/ipfs/QmapcbyxWzMbsjJKgxjK6Csc3JQyoJKnckDLanDLMv5FsH"
 			]
 		}
 	},
