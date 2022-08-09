@@ -17,3 +17,11 @@ __________________________________________________________________
 
 // view function is read only function
 // it will not change the state variables, but can read the data from state
+
+
+__________________________________________________________________
+
+address public constant MY_ADDRESS = 0xdAC17F958D2ee523a2206206994597C13D831ec7; // 21420 gas
+
+constant - use less gas
+
