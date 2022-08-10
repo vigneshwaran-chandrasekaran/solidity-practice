@@ -9,40 +9,29 @@
 				"inputs": [
 					{
 						"internalType": "uint256",
-						"name": "x",
-						"type": "uint256"
-					},
-					{
-						"internalType": "uint256",
-						"name": "y",
+						"name": "_x",
 						"type": "uint256"
 					}
 				],
-				"name": "add",
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "owner",
 				"outputs": [
 					{
-						"internalType": "uint256",
+						"internalType": "address",
 						"name": "",
-						"type": "uint256"
+						"type": "address"
 					}
 				],
-				"stateMutability": "pure",
+				"stateMutability": "view",
 				"type": "function"
 			},
 			{
-				"inputs": [
-					{
-						"internalType": "uint256",
-						"name": "x",
-						"type": "uint256"
-					},
-					{
-						"internalType": "uint256",
-						"name": "y",
-						"type": "uint256"
-					}
-				],
-				"name": "sub",
+				"inputs": [],
+				"name": "x",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -50,7 +39,7 @@
 						"type": "uint256"
 					}
 				],
-				"stateMutability": "pure",
+				"stateMutability": "view",
 				"type": "function"
 			}
 		],
@@ -67,7 +56,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/FunctionIntro-4.sol": "FunctionIntro"
+			"contracts/Constructor-16.sol": "Constructor"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -81,12 +70,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/FunctionIntro-4.sol": {
-			"keccak256": "0x3dfd854260a6ffe9f6a9b88d623694754b3962e0fdb87140d72b2592077723f7",
+		"contracts/Constructor-16.sol": {
+			"keccak256": "0xf5a746d88c54b983a15124cd1c07523b4ecb9f98969c852c6f246b5eb3a518d0",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://d288d4b8ed69d1a37ffba6608c6c6e70bbd3845fde993b87ae3939d94b5c5827",
-				"dweb:/ipfs/QmPySzbNYX6f8LquDUFazRJpHeJ7bY3HHB3RgQeDMSP1LC"
+				"bzz-raw://00123c8408c8ffc4ccde1dda1c8706e4252b98867877899dbd9ff381fe007e8e",
+				"dweb:/ipfs/QmWoNwFaJTfxBkuYD8F3Em3y9s8K5V7MP5iyEBpHpktEri"
 			]
 		}
 	},

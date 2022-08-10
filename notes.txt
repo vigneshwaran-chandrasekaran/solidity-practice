@@ -25,3 +25,15 @@ address public constant MY_ADDRESS = 0xdAC17F958D2ee523a2206206994597C13D831ec7;
 
 constant - use less gas
 
+__________________________________________________________________
+
+Function Examples to differentiate:
+
+public - all can access
+
+external - Cannot be accessed internally, only externally
+
+internal - only this contract and contracts deriving from it can access
+
+private - can be accessed only from this contract
+__________________________________________________________________
