@@ -18,6 +18,22 @@ useful links
 https://etherscan.io/
 https://chainlist.org/
 https://www.aax.com/en-US/
+https://www.coinbase.com/home
+https://solscan.io/account/11111111111111111111111111111111#solTransfers
+https://solscan.io/
+https://opensea.io/assets/solana/5xEHFyhU7c72S18NUZXbeqqdpvk8D66HtFTQ59Bb5341
+https://opensea.io/
+https://www.myetherwallet.com/
+https://etherscan.io/address/0x8f03f1a3f10c05e7cccf75c1fd10168e06659be7#analytics
+https://chat.blockscan.com/start
+https://ethgasstation.info/gas-burners
+https://ethgasstation.info/
+https://www.dappuniversity.com/
+https://dappradar.com/multichain/marketplaces/atomicmarket
+https://dappradar.com/
+https://coindcx.com/
+https://www.coindesk.com/
 
-
+https://solidity-by-example.org/hacks/self-destruct/
+https://hardhat.org/
 __________________________________________________________________
