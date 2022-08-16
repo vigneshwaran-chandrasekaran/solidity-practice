@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 
-pragma solidity ^0.8.7;
+pragma solidity >=0.7.0 <0.9.0;
 
 // state variable store the value on the block chain
 
