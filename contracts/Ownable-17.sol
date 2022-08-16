@@ -1,7 +1,6 @@
 // SPDX-License-Identifier: MIT
 
-pragma solidity ^0.8.7;
-
+pragma solidity >=0.7.0 <0.9.0;
 
 contract Ownable {
     address public owner;
@@ -20,11 +19,7 @@ contract Ownable {
         owner = _newOwner;
     }
 
-    function onlyOwnerCanCallThisFunc() external onlyOwner {
+    function onlyOwnerCanCallThisFunc() external onlyOwner {}
 
-    }
-
-    function anyOneCanCall() external {
-        
-    }
+    function anyOneCanCall() external {}
 }

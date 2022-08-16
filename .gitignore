@@ -1,4 +1,17 @@
-**/contracts/artifacts/
-artifacts/
+**/contracts/artifacts/*
+artifacts/*
 ipfs/
 swarm/
+
+# git rm -r --cached .
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+#Hardhat files
+cache
+artifacts
+

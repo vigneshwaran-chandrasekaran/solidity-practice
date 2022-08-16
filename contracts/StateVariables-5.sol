@@ -6,11 +6,11 @@ pragma solidity >=0.7.0 <0.9.0;
 
 contract StateVariables {
     // state variable
-    uint public myUint = 123;
+    uint256 public myUint = 123;
 
-    function foo() external pure returns (uint) {
+    function foo() external pure returns (uint256) {
         // local variable
-        uint myLocal = 22;
+        uint256 myLocal = 22;
         myLocal += 1;
         return myLocal;
     }
