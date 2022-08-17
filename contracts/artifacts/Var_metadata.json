@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "MY_ADDRESS",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Constants-11.sol": "Var"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Constants-11.sol": {
+			"keccak256": "0x8efe94fe94e6109444a434686c4183c694724f583f483d3673790fa6be06f024",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://2dc4283d8cad39334ae074a26d9a1e85d330ca7dd72f327f32716bc418436560",
+				"dweb:/ipfs/QmaEGwwWPdQWdNY6xtg3NqCjybRouiH83qggJM8iXnZEkj"
+			]
+		}
+	},
+	"version": 1
+}

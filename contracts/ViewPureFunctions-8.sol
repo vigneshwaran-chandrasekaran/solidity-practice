@@ -1,26 +1,26 @@
 // SPDX-License-Identifier: MIT
 
-pragma solidity >=0.7.0 <0.9.0;
+pragma solidity ^0.8.7;
 
 contract ViewPureFunctions {
-    uint256 public num;
+    uint public num;
 
     // view function is read only function
     // it will not change the state variables, but can read the data from state
     // and view function not writing anything on the blockchain
-    function viewFunc() external view returns (uint256) {
+    function viewFunc() external view returns (uint) {
         return num;
     }
 
-    function pureFunc() external pure returns (uint256) {
+    function pureFunc() external pure returns (uint) {
         return 1;
     }
 
-    function addToNum(uint256 x) external view returns (uint256) {
+    function addToNum(uint x) external view returns (uint) {
         return num + x;
     }
 
-    function add(uint256 x, uint256 y) external pure returns (uint256) {
+    function add(uint x, uint y) external pure returns (uint) {
         return x + y;
     }
 }
