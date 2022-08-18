@@ -1,6 +1,13 @@
 connect remix to github
 https://youtu.be/9zZ5mk74n3E
 
+
+https://youtu.be/MTe-8z2m4gY
+Installing Remix IDE in VSCode
+
+
+TensorFlow User Group Chandigarh
+
 __________________________________________________________________
 
 

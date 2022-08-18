@@ -9,7 +9,6 @@ import "hardhat/console.sol";
  * @dev Set & change owner
  */
 contract Owner {
-
     address private owner;
 
     // event for EVM logging
@@ -45,10 +44,10 @@ contract Owner {
     }
 
     /**
-     * @dev Return owner address 
+     * @dev Return owner address
      * @return address of owner
      */
     function getOwner() external view returns (address) {
         return owner;
     }
-} 
+}

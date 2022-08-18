@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.7+commit.e28d00a7"
+		"version": "0.8.6+commit.11564f7e"
 	},
 	"language": "Solidity",
 	"output": {
@@ -103,7 +103,7 @@
 		"compilationTarget": {
 			"contracts/ViewPureFunctions-8.sol": "ViewPureFunctions"
 		},
-		"evmVersion": "london",
+		"evmVersion": "berlin",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -116,11 +116,11 @@
 	},
 	"sources": {
 		"contracts/ViewPureFunctions-8.sol": {
-			"keccak256": "0xa42fa416045f8c80791386fce53f1484f0475ec95ee60e50689a6db63ae15b47",
+			"keccak256": "0x0b70182fd5649920b81b5c8af6f576a7303c9bdad1f2198b0b90ad6714d1802f",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://4bcca1e0abe322c512578adddab45d071aa588161da3fcec64a684b88ea01db4",
-				"dweb:/ipfs/QmT43FurQNdLdbPrFFfo3h4koo8xif6a7AHAY35vgmAvna"
+				"bzz-raw://54062b8109ad17914c30dba898f8b00833d0847cb4c5c2e00f9fd799dd535908",
+				"dweb:/ipfs/QmVHffZSQV62PBKaMZgpqG4CMaCJKPXcUw8ZkwCse3CjES"
 			]
 		}
 	},
