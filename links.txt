@@ -8,6 +8,18 @@ Installing Remix IDE in VSCode
 
 TensorFlow User Group Chandigarh
 
+-----------------------------------------------
+https://github.com/trufflesuite/ganache
+
+
+to run ganache in cli
+ganache-cli cmd
+
+
+-----------------------------------------------
+to give executable access to ganache image file
+use 
+chmod +x ganache-2.5.4-linux-x86_64.AppImage
 __________________________________________________________________
 
 

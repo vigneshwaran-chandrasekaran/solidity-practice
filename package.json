@@ -230,7 +230,8 @@
   },
   "scripts": {
     "test": "mocha",
-    "ganache": "ganache-cli cmd"
+    "ganache": "ganache-cli cmd",
+    "ganache-wallet": "ganache --wallet.seed myCustomSeed"
   },
   "repository": {
     "type": "git",
