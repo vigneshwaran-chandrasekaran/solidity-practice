@@ -3,24 +3,24 @@
 pragma solidity ^0.8.7;
 
 contract ViewPureFunctions {
-    uint public num;
+    uint256 public num;
 
     // view function is read only function
     // it will not change the state variables, but can read the data from state
     // and view function not writing anything on the blockchain
-    function viewFunc() external view returns (uint) {
+    function viewFunc() external view returns (uint256) {
         return num;
     }
 
-    function pureFunc() external pure returns (uint) {
+    function pureFunc() external pure returns (uint256) {
         return 1;
     }
 
-    function addToNum(uint x) external view returns (uint) {
+    function addToNum(uint256 x) external view returns (uint256) {
         return num + x;
     }
 
-    function add(uint x, uint y) external pure returns (uint) {
+    function add(uint256 x, uint256 y) external pure returns (uint256) {
         return x + y;
     }
 }
