@@ -2,7 +2,6 @@
 
 pragma solidity ^0.8.7;
 
-
 // Examples to differentiate:
 
 // public - all can access
@@ -14,15 +13,15 @@ pragma solidity ^0.8.7;
 // private - can be accessed only from this contract
 
 contract FunctionIntro {
-    function add(uint x, uint y) external pure returns (uint) {
+    function add(uint256 x, uint256 y) external pure returns (uint256) {
         return x + y;
     }
 
-    function sub(uint x, uint y) external pure returns (uint) {
+    function sub(uint256 x, uint256 y) external pure returns (uint256) {
         return x - y;
     }
 
-    function mul(uint x, uint y) internal pure returns (uint) {
+    function mul(uint256 x, uint256 y) internal pure returns (uint256) {
         return x * y;
     }
 }

@@ -6,15 +6,15 @@ contract FunctionOutpus {
     // public = outside and internal usage
     // external = only outside
     // internal = only inside
-    function returnMany() public pure returns (uint, bool) {
+    function returnMany() public pure returns (uint256, bool) {
         return (1, true);
     }
 
-    function named() public pure returns (uint x, bool b ) {
+    function named() public pure returns (uint256 x, bool b) {
         return (1, true);
     }
 
-    function assigned() public pure returns (uint x, bool b ) {
+    function assigned() public pure returns (uint256 x, bool b) {
         x = 1;
         b = true;
     }
