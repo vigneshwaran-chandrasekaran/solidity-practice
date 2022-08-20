@@ -18,7 +18,7 @@ ganache-cli cmd
 
 -----------------------------------------------
 to give executable access to ganache image file
-use 
+use
 chmod +x ganache-2.5.4-linux-x86_64.AppImage
 __________________________________________________________________
 

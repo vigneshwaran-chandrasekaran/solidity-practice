@@ -3,7 +3,7 @@
 pragma solidity ^0.8.7;
 
 contract Counter {
-    uint public count;
+    uint256 public count;
 
     function inc() external {
         count += 1;
