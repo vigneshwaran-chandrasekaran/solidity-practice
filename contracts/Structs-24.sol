@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 
-pragma solidity ^0.8.7;
+pragma solidity ^0.8.8.0;
 
 contract Structs {
     struct Car {
@@ -30,5 +30,16 @@ contract Structs {
         cars.push(toyota);
         cars.push(tvs);
         cars.push(tesla);
+
+        cars.push(Car("one", 1331, msg.sender));
+
+        // storage keyword will allow to modify the data
+        // memory keyword used for temporary storage onliy
+        Car storage _car = cars[0];
+        _car.year = 3333;
+
+        delete _car.owner;
+
+        delete cars[1];
     }
 }
