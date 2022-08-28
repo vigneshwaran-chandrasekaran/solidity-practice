@@ -30,6 +30,21 @@ Solidity 0.8
 playlist - 67 videos
 
 https://www.youtube.com/playlist?list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p
+--------------------
+
+Next videos to learn
+1. Master Ethers.js for Blockchain Step-by-Step [Full Course]
+https://youtu.be/yk7nVp5HTCk
+https://www.youtube.com/watch?v=yk7nVp5HTCk&ab_channel=DappUniversity
+https://github.com/dappuniversity/ethers_examples
+
+2. Interact with Smart Contracts in React w/ Web3.js | Beginner Web3 Tutorial
+https://www.youtube.com/watch?v=h9PdvEDuZS8&ab_channel=HUSNAiN
+https://youtu.be/h9PdvEDuZS8
+
+3. Web3 Tutorial Project | Build a web3js dApp for a smart contract
+https://youtu.be/Qu6GloG0dQk
+https://www.youtube.com/watch?v=Qu6GloG0dQk&ab_channel=BlockExplorer
 
 __________________________________________________________________
 useful links
