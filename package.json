@@ -227,6 +227,7 @@
     "yocto-queue": "^0.1.0"
   },
   "devDependencies": {
+    "dotenv": "^16.0.2",
     "mocha": "^10.0.0"
   },
   "scripts": {

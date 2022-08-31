@@ -1,2 +1,7 @@
 https://github.com/dappuniversity/ethers_examples
 https://github.com/dappuniversity/ethers_examples/tree/master/examples
+
+
+reference video link
+Master Ethers.js for Blockchain Step-by-Step [Full Course]
+https://youtu.be/yk7nVp5HTCk?list=PLS5SEs8ZftgUNcUVXtn2KXiE1Ui9B5UrY
