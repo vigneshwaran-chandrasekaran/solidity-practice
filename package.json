@@ -21,6 +21,7 @@
     "argparse": "^2.0.1",
     "async": "^2.6.4",
     "async-eventemitter": "^0.2.4",
+    "axios": "^0.27.2",
     "balanced-match": "^1.0.2",
     "base-x": "^3.0.9",
     "base64-js": "^1.5.1",
